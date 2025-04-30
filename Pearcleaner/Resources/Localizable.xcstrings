@@ -45,6 +45,12 @@
             "value" : "(Збірка %@)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Build %@)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -85,6 +91,12 @@
             "value" : "**%lld%%** збережено"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "**%lld%%** đang lưu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -114,6 +126,12 @@
           }
         },
         "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@"
@@ -176,6 +194,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ вже на останній версії"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ hiện đang là phiên bản mới nhất"
           }
         },
         "zh-Hans" : {
@@ -243,6 +267,12 @@
             "value" : "%@ перевірить наявність оновлень"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ sẽ kiểm tra bản cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -265,6 +295,12 @@
     },
     "%lld paths" : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld đường dẫn"
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -291,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld універсальні програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld ứng dụng universal"
           }
         },
         "zh-Hans" : {
@@ -349,6 +391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "⇧ + Скрол"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧ + Cuộn chuột"
           }
         },
         "zh-Hans" : {
@@ -413,6 +461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Про програму"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông tin ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -480,6 +534,12 @@
             "value" : "Доступність"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trợ năng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -545,6 +605,12 @@
             "value" : "Додати файл/папку"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm tệp/thư mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -601,6 +667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Додати файл/папку з буферу обміну"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm tệp/thư mục vào bộ nhớ tạm (clipboard)"
           }
         },
         "zh-Hans" : {
@@ -668,6 +740,12 @@
             "value" : "Додати файл чи папку які будуть ігноровані при пошуку осиротілих файлів. Клікни на шлях щоб прибрати його зі списку"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm các tệp hoặc thư mục sẽ bị bỏ qua khi tìm kiếm tệp dư thừa. Nhấp vào một đường dẫn để xóa khỏi danh sách."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -733,6 +811,12 @@
             "value" : "Додати папку"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm thư mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -791,6 +875,12 @@
             "value" : "Додати папку з буферу обміну"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm thư mục vào bộ nhớ tạm (clipboard)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -829,6 +919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Після lipo, зелена частина буде видалена з бінарного файлу програми. Переконайтеся, що ви відкрили програму хоча б один раз перед lipo, щоб переконатися, що macOS закешувала підпис."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau khi lipo, phần màu xanh sẽ bị xóa khỏi tệp nhị phân của ứng dụng. Hãy chắc chắn mở ứng dụng ít nhất một lần trước khi sử dụng lipo để đảm bảo macOS đã lưu trữ chữ ký."
           }
         },
         "zh-Hans" : {
@@ -890,6 +986,12 @@
             "value" : "Всі чекбокси"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tất cả hộp chọn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -928,6 +1030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Завжди перевіряйте файли, позначені для видалення. У рідкісних випадках можуть бути знайдені не пов'язані файли, якщо назви програм занадто схожі."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luôn xác nhận các tệp được đánh dấu để xóa. Trong một số trường hợp hiếm hoi, có thể tìm thấy các tệp không liên quan khi tên ứng dụng quá giống nhau."
           }
         },
         "zh-Hans" : {
@@ -987,6 +1095,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Завжди перевіряйте файли, позначені для видалення. У рідкісних випадках можуть бути знайдені не пов'язані файли, якщо назви програм занадто схожі.\n\nПРИМІТКА: Pearcleaner використовує AppleScript для видалення файлів. Наразі macOS не дозволяє AppleScript автентифікуватися за допомогою сканера відбитків пальців, підтримується лише автентифікація за допомогою пароля."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luôn xác nhận các tệp được đánh dấu để xóa. Trong một số trường hợp hiếm hoi, có thể tìm thấy các tệp không liên quan khi tên ứng dụng quá giống nhau.\n\nLưu ý: Pearcleaner sử dụng AppleScript để xóa tệp tin. Hiện tại macOS không cho phép AppleScript xác thực bằng cảm biến vân tay, chỉ hỗ trợ xác thực bằng mật khẩu."
           }
         },
         "zh-Hans" : {
@@ -1054,6 +1168,12 @@
             "value" : "Анімації вимкнено"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã tắt hiển thị hoạt ảnh"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1117,6 +1237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Анімації увімкнено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã bật hiển thị hoạt ảnh"
           }
         },
         "zh-Hans" : {
@@ -1184,6 +1310,12 @@
             "value" : "Оголошення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuyên bố"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1224,6 +1356,12 @@
             "value" : "Програма Lipo"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Lipo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1256,6 +1394,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Програма lipo перевіряє бінарні файли Mach-O у ваших універсальних програмах і видаляє всі невикористовувані архітектури, такі як x86_64 або arm64, залишаючи лише ті архітектури, які ваш комп'ютер дійсно підтримує. У списку показано лише програми універсального типу, а не повний список ваших програм."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App lipo nhắm vào các tệp Mach-O bên trong các gói ứng dụng đa nền tảng và loại bỏ bất kỳ kiến trúc không sử dụng nào, như x86_64 hoặc arm64, chỉ giữ lại các kiến trúc mà máy tính thực sự hỗ trợ. Danh sách chỉ hiển thị các ứng dụng kiểu đa nền tảng, không phải toàn bộ danh sách ứng dụng.\n"
           }
         },
         "zh-Hans" : {
@@ -1314,6 +1458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Назва програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -1378,6 +1528,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Розмір програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dung lượng ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -1445,6 +1601,12 @@
             "value" : "Оформлення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao diện"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1507,6 +1669,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Файл програми вкладено у підпапки. Щоб запобігти видаленню неправильних папок, Pearcleaner залишить їх без змін. За потреби ви можете вручну видалити решту папок."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tệp ứng dụng nằm trong các thư mục con. Để tránh xóa nhầm các thư mục, Pearcleaner sẽ bỏ qua chúng. Bạn có thể xóa các thư mục còn lại thủ công nếu cần."
           }
         },
         "zh-Hans" : {
@@ -1574,6 +1742,12 @@
             "value" : "Скрипт програми"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Application Script"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1636,6 +1810,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -1702,6 +1882,12 @@
             "value" : "Ви впевнені, що хочете видалити ці файли?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn có chắc chắn sẽ xóa những tập tin sau đây không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1724,6 +1910,12 @@
     },
     "Authorization required in Settings > Login Items > %@.app." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần cấp quyền trong Cài đặt > Mục đăng nhập > %@.app."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1777,6 +1969,12 @@
             "value" : "Автоматизація"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự động hóa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1817,6 +2015,12 @@
             "value" : "БЕТА"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BETA"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1849,6 +2053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Розмір бінарного файла"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích thước nhị phân"
           }
         },
         "zh-Hans" : {
@@ -1903,6 +2113,12 @@
             "value" : "Пакетні Файли..."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhóm tệp"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1941,6 +2157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Розмір Пакету"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích thước nhóm tệp"
           }
         },
         "zh-Hans" : {
@@ -2000,6 +2222,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "розраховую"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "đang tính toán"
           }
         },
         "zh-Hans" : {
@@ -2067,6 +2295,12 @@
             "value" : "Скасувати"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2132,6 +2366,12 @@
             "value" : "Перевірити Оновлення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiểm tra cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2190,6 +2430,12 @@
             "value" : "Перевірені шляхи для %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã kiểm tra đường dẫn cho %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2212,6 +2458,12 @@
     },
     "Checking..." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang kiểm tra…"
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2256,6 +2508,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очищення збережених файлів і кешу для поширених середовищ розробки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dọn dẹp các tệp lưu trữ và bộ nhớ cache cho các môi trường phát triển phổ biến"
           }
         },
         "zh-Hans" : {
@@ -2323,6 +2581,12 @@
             "value" : "Очистити"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2386,6 +2650,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очистити текст"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa văn bản"
           }
         },
         "zh-Hans" : {
@@ -2453,6 +2723,12 @@
             "value" : "Натисни для списку програм"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhấp để xem danh sách ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2516,6 +2792,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Натисни на заголовок для зміни сортування"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhấn vào tiêu đề để thay đổi thứ tự sắp xếp"
           }
         },
         "zh-Hans" : {
@@ -2583,6 +2865,12 @@
             "value" : "Натисни для пошуку"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhấn để tìm kiếm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2645,6 +2933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрити"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đóng"
           }
         },
         "zh-Hans" : {
@@ -2712,6 +3006,12 @@
             "value" : "Закрити після видалення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đóng sau khi gỡ ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2775,6 +3075,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Команда строка"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sử dụng dòng lệnh (CLI)"
           }
         },
         "zh-Hans" : {
@@ -2842,6 +3148,12 @@
             "value" : "Виконано 🚀"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoàn thành 🚀"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2905,6 +3217,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Контейнер"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Container"
           }
         },
         "zh-Hans" : {
@@ -2972,6 +3290,12 @@
             "value" : "Копіювати шляхів до файлів"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao chép đường dẫn tệp"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3035,6 +3359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скопіювати шлях"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sao chép đường dẫn"
           }
         },
         "zh-Hans" : {
@@ -3102,6 +3432,12 @@
             "value" : "Щоденно"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hàng ngày"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3160,6 +3496,12 @@
             "value" : "Консоль Налагодження"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debug Console"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3210,6 +3552,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Видалити всі файли з цієї папки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa tất cả tệp trong thư mục này"
           }
         },
         "zh-Hans" : {
@@ -3270,6 +3618,12 @@
             "value" : "Видалити вміст"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa nội dung"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3326,6 +3680,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Видалити папку"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xóa thư mục"
           }
         },
         "zh-Hans" : {
@@ -3393,6 +3753,12 @@
             "value" : "Відстежувати коли застосунок переміщено в Смітник"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phát hiện khi ứng dụng được đưa vào Thùng rác"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3451,6 +3817,12 @@
             "value" : "Розробка"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhà phát triển"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3491,6 +3863,12 @@
             "value" : "Середовища Розробки"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Môi trường phát triển"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3507,6 +3885,12 @@
     },
     "Disabled" : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã tắt"
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3558,6 +3942,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вимкнено, якщо увімкнено режим на Смузі Меню"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bị tắt khi biểu tượng trên thanh menu được bật"
           }
         },
         "zh-Hans" : {
@@ -3625,6 +4015,12 @@
             "value" : "Скасувати"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đóng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3688,6 +4084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перемістіть програму сюди"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kéo một ứng dùng vào đây"
           }
         },
         "zh-Hans" : {
@@ -3755,6 +4157,12 @@
             "value" : "Перемістити файли чи папки вище або натисніть додати"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kéo tệp hoặc thư mục vào phía trên hoặc nhấn để thêm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3818,6 +4226,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перемістити папки вище або натисніть додати"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kéo thư mục vào phía trên hoặc nhấn để thêm"
           }
         },
         "zh-Hans" : {
@@ -3885,6 +4299,12 @@
             "value" : "Скинути ціль"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kéo thả ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3950,6 +4370,12 @@
             "value" : "Увімкнути розширення для контекстного меню Finder"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật tiện ích menu ngữ cảnh cho Finder"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3972,6 +4398,12 @@
     },
     "Enabled" : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã bật"
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4023,6 +4455,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Увімкнення CLI дозволить вам виконувати дії Pearcleaner з терміналу. Це додасть команду pearcleaner до /usr/local/bin, щоб вона була доступна безпосередньо з вашої змінної оточення PATH. Спробуйте після увімкнення:\n\n> pearcleaner --help"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật sử dụng dòng lệnh (CLI) sẽ cho phép thực thi các hành động của Pearcleaner từ Terminal. Việc này sẽ thêm lệnh pearcleaner vào thư mục /usr/local/bin, có thể gọi lệnh trực tiếp thông qua biến môi trường (PATH). Hãy thử lệnh này sau khi bật:\n\n> pearcleaner --help"
           }
         },
         "zh-Hans" : {
@@ -4090,6 +4528,12 @@
             "value" : "Увімкнувши це розширення, ви зможете клацнути правою кнопкою миші на програмах у Finder, щоб швидко видалити їх за допомогою Pearcleaner"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bật tiện ích mở rộng này sẽ cho phép bạn nhấp chuột phải vào các ứng dụng trong Finder để gỡ cài đặt nhanh chóng chúng bằng Pearcleaner."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4128,6 +4572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введіть ручну команду тут, Enter для запуску"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhập lệnh thủ công ở đây, nhấn Enter để chạy"
           }
         },
         "zh-Hans" : {
@@ -4182,6 +4632,12 @@
             "value" : "Оточення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Môi trường"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4220,6 +4676,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Приклади привілейованих команд"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ví dụ về các lệnh yêu cầu quyền cao"
           }
         },
         "zh-Hans" : {
@@ -4281,6 +4743,12 @@
             "value" : "Виключити"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4319,6 +4787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Виключити обрані"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ mục đã chọn"
           }
         },
         "zh-Hans" : {
@@ -4378,6 +4852,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Виключити ці файли та папки з пошуку осиротілих файлів"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại trừ các tệp và thư mục ra khỏi quá trình tìm kiếm tệp rác"
           }
         },
         "zh-Hans" : {
@@ -4445,6 +4925,12 @@
             "value" : "Експортувати шляхи файлів"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xuất các đường dẫn tệp"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4501,6 +4987,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Експортувати шляхи файлів…"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xuất các đường dẫn tệp…"
           }
         },
         "zh-Hans" : {
@@ -4568,6 +5060,12 @@
             "value" : "Не вдалося відобразити примітки до випуску"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lỗi khi hiển thị ghi chú phát hành"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4631,6 +5129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Параметри відображення розміру файлу"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tùy chọn hiển thị kích thước tệp"
           }
         },
         "zh-Hans" : {
@@ -4698,6 +5202,12 @@
             "value" : "Розширення Finder"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiện ích mở rộng cho Finder"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4763,6 +5273,12 @@
             "value" : "Шукаю осиротілі файли, очікуйте, будь ласка"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang tìm kiếm tệp rác, vui lòng đợi…"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4819,6 +5335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Папка пуста"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thư mục trống"
           }
         },
         "zh-Hans" : {
@@ -4886,6 +5408,12 @@
             "value" : "Папки"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thư mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4949,6 +5477,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Примусове Оновлення"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Làm mới ngay lập tức"
           }
         },
         "zh-Hans" : {
@@ -5016,6 +5550,12 @@
             "value" : "Повний Доступ до Диску"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truy cập \"Full Disk Access\""
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5079,6 +5619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Функціональність"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chức năng"
           }
         },
         "zh-Hans" : {
@@ -5146,6 +5692,12 @@
             "value" : "Збираю дані про програму"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang tải thông tin ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5209,6 +5761,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Загальні"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt chung"
           }
         },
         "zh-Hans" : {
@@ -5276,6 +5834,12 @@
             "value" : "Спонсори GitHub"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Những nhà tài trợ trên Github"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5341,6 +5905,12 @@
             "value" : "GitHub: версія %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Github v%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5379,6 +5949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Помічник"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phụ trợ"
           }
         },
         "zh-Hans" : {
@@ -5439,6 +6015,12 @@
             "value" : "Заховати деталі"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ẩn chi tiết"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5474,6 +6056,12 @@
           }
         },
         "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "homebrew"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "homebrew"
@@ -5538,6 +6126,12 @@
             "value" : "Очистка Homebrew після видалення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chạy \"homebrew cleanup\" sau khi gỡ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5576,6 +6170,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Очистка Homebrew: %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homebrew Cleanup: %@"
           }
         },
         "zh-Hans" : {
@@ -5628,6 +6228,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Навести для пошуку"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Di chuột để tìm kiếm"
           }
         },
         "zh-Hans" : {
@@ -5695,6 +6301,12 @@
             "value" : "Важливо"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quan trọng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5758,6 +6370,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "У режимі міні-вікна, якщо ви закріпите спливаюче вікно Файли зверху, клацання за межами вікна не призведе до його закриття. Інакше його можна буде закрити, клацнувши деінде поза програмою."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong chế độ cửa sổ thu gọn, nếu ghim cửa sổ nổi \"Files\" lên trên, việc nhấp ra ngoài cửa sổ sẽ không đóng nó. Ngược lại, nếu không ghim, cửa sổ sẽ tự động đóng khi nhấp chuột ra ngoài ứng dụng."
           }
         },
         "zh-Hans" : {
@@ -5825,6 +6443,12 @@
             "value" : "У режимі міні-вікна ви можете запустити Pearcleaner у вікні списку програм або у вікні видалення цільових обʼєктів"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trong chế độ cửa sổ thu gọn, Pearcleaner cung cấp 2 giao diện khi mở ứng dụng:\n\n- Danh sách ứng dụng\n- Kéo thả ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5863,6 +6487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Інформація"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông tin"
           }
         },
         "zh-Hans" : {
@@ -5923,6 +6553,12 @@
             "value" : "Дата інсталяції"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày cài đặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5945,6 +6581,12 @@
     },
     "Installation failed: %@" : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt thất bại: %@"
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5995,6 +6637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Дата інсталяції:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày cài đặt:"
           }
         },
         "zh-Hans" : {
@@ -6062,6 +6710,12 @@
             "value" : "Інстальовано: v%@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã cài đặt v%@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6125,6 +6779,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Інструкції"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hướng dẫn"
           }
         },
         "zh-Hans" : {
@@ -6191,6 +6851,12 @@
             "value" : "Інтерфейс"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao diện"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6213,6 +6879,12 @@
     },
     "Invalid signature, ensure proper signing on the application and helper tool." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chữ ký không hợp lệ, đảm bảo rằng ứng dụng và công cụ hỗ trợ đã được sử dụng đúng cách."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6261,6 +6933,12 @@
           }
         },
         "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "iOS"
@@ -6331,6 +7009,12 @@
             "value" : "Програма iOS"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng iOS"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6394,6 +7078,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "елемент"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "mục"
           }
         },
         "zh-Hans" : {
@@ -6461,6 +7151,12 @@
             "value" : "елементи"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6499,6 +7195,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Запустити Сервіс"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dịch vụ Kickstart"
           }
         },
         "zh-Hans" : {
@@ -6557,6 +7259,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Використано востаннє"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày sử dụng gần nhất"
           }
         },
         "zh-Hans" : {
@@ -6621,6 +7329,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Використано востаннє: "
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày sử dụng gần nhất:"
           }
         },
         "zh-Hans" : {
@@ -6688,6 +7402,12 @@
             "value" : "Запускати Pearcleaner після логіну"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở Pearcleaner khi đăng nhập"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6728,6 +7448,12 @@
             "value" : "Посилання на"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liên kết đến"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6757,6 +7483,12 @@
           }
         },
         "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lipo"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lipo"
@@ -6819,6 +7551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Локації, в яких буде здійснюватися пошук файлів .app. Клацніть нестандартний шлях, щоб видалити його. Шляхи за замовчуванням не можна видалити."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Các vị trí sẽ được tìm kiếm để tìm tệp .app. Nhấp vào đường dẫn không mặc định để loại bỏ. Các đường dẫn mặc định không thể loại bỏ được."
           }
         },
         "zh-Hans" : {
@@ -6886,6 +7624,12 @@
             "value" : "Логічно"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích thước logic (Logical type)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6926,6 +7670,12 @@
             "value" : "Елементи Логіну"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Các mục khởi động"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6958,6 +7708,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "macOS дозволяє розширення, тільки якщо основна програма знаходиться в папці Applications"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "macOS chỉ bật các tiện ích mở rộng nếu ứng dụng chính nằm trong thư mục Ứng dụng (Applications)"
           }
         },
         "zh-Hans" : {
@@ -7019,6 +7775,12 @@
             "value" : "Зроблено з ❤️ Alin Lupascu"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Made with ❤️ by Alin Lupascu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7057,6 +7819,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Керування"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quản lý"
           }
         },
         "zh-Hans" : {
@@ -7116,6 +7884,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Смуга Меню"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh menu"
           }
         },
         "zh-Hans" : {
@@ -7183,6 +7957,12 @@
             "value" : "Режим відображення іконок в Смузі Меню"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị trên thanh menu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7246,6 +8026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вибір іконки на Смузі Меню"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thay đổi biểu tượng trên thanh menu"
           }
         },
         "zh-Hans" : {
@@ -7313,6 +8099,12 @@
             "value" : "Міні конфігурація"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa sổ thu nhỏ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7376,6 +8168,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Режим міні-вікна"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chế độ cửa sổ thu nhỏ"
           }
         },
         "zh-Hans" : {
@@ -7443,6 +8241,12 @@
             "value" : "Вимкнено мінімалістичні рядки списку програм"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị ứng dụng theo phong cách đầy đủ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7506,6 +8310,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Увімкнено мінімалістичні рядки списку програм"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị ứng dụng theo phong cách tối giản"
           }
         },
         "zh-Hans" : {
@@ -7573,6 +8383,12 @@
             "value" : "Відсутні Дозволи"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần cấp quyền"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7637,6 +8453,12 @@
             "value" : "Дата модифікації"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày chỉnh sửa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7699,6 +8521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Дата модифікації:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngày chỉnh sửa:"
           }
         },
         "zh-Hans" : {
@@ -7766,6 +8594,12 @@
             "value" : "Щомісяця"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hàng tháng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7829,6 +8663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Більше"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm"
           }
         },
         "zh-Hans" : {
@@ -7896,6 +8736,12 @@
             "value" : "Назва"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7934,6 +8780,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перейти"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đi đến"
           }
         },
         "zh-Hans" : {
@@ -7993,6 +8845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ніколи"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không bao giờ"
           }
         },
         "zh-Hans" : {
@@ -8060,6 +8918,12 @@
             "value" : "Нове Оголошення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông báo mới"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8125,6 +8989,12 @@
             "value" : "Наступна перевірка оновлення: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lần kiểm tra cập nhật tiếp theo: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8163,6 +9033,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Команда не надана"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có lệnh nào được cung cấp"
           }
         },
         "zh-Hans" : {
@@ -8222,6 +9098,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Файли чи папки не додано"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có tệp hoặc thư mục nào được thêm"
           }
         },
         "zh-Hans" : {
@@ -8289,6 +9171,12 @@
             "value" : "Нема нових оголошень"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chưa có thông báo nào"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8345,6 +9233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Осиротілих файлів не знайдено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có tệp rác nào được tìm thấy"
           }
         },
         "zh-Hans" : {
@@ -8412,6 +9306,12 @@
             "value" : "Нема релізів для відображення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có bản cập nhật nào"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8450,6 +9350,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не знайдено універсальних програм"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có ứng dụng universal nào được tìm thấy."
           }
         },
         "zh-Hans" : {
@@ -8509,6 +9415,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Нема оновлення 😌"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có bản cập nhật mới 😌"
           }
         },
         "zh-Hans" : {
@@ -8576,6 +9488,12 @@
             "value" : "Недоступно"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có sẵn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8632,6 +9550,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не знайдено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không tìm thấy"
           }
         },
         "zh-Hans" : {
@@ -8699,6 +9623,12 @@
             "value" : "з"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "trên"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8764,6 +9694,12 @@
             "value" : "Окей"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Okay"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8820,6 +9756,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Відкрити"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở"
           }
         },
         "zh-Hans" : {
@@ -8887,6 +9829,12 @@
             "value" : "Відкрити %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8909,6 +9857,12 @@
     },
     "Operation failed: %@" : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thao tác thất bại: %@"
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8960,6 +9914,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Пошук осиротілих файлів не є на 100% точним, оскільки він не має пакунків видалених програм, які можна було б перевірити на предмет виключення файлів. Виконується пошук файлів/папок на основі найкращих припущень і виключаються ті, що перетинаються з вашими поточними встановленими програмами. Будь ласка, переконайтеся, що файли, позначені для видалення, дійсно належать до видалених програм."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Việc tìm kiếm tệp rác không hoàn toàn chính xác vì không có các gói ứng dụng đã gỡ cài đặt để kiểm tra và loại trừ các tệp. Quá trình này thực hiện tìm kiếm ước lượng tốt nhất cho các tệp/thư mục và loại trừ những tệp có sự trùng lặp với các ứng dụng hiện tại. Vui lòng xác nhận các tệp được đánh dấu thuộc các ứng dụng đã gỡ cài đặt."
           }
         },
         "zh-Hans" : {
@@ -9027,6 +9987,12 @@
             "value" : "Осиротілі Файли"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tệp rác"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9092,6 +10058,12 @@
             "value" : "Pearcleaner і всі його файли буде повністю видалено, ви впевнені?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner và tất cả các tệp của nó sẽ bị gỡ bỏ sạch sẽ, bạn có chắc chắn không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9114,6 +10086,12 @@
     },
     "Pearcleaner can perform privileged operations in the following ways:\n- Helper service 👍🏻\n- Authorization services 👎🏻\n\nHelper service: Pearcleaner will only ask you to enter your password once to enable the helper, then all subsequent operations will run without any prompts as long as the helper stays enabled in Settings > Login Items. This authorization is all managed by macOS via SMAppService.\n\nAuthorization services: Pearcleaner will ask the user for a password prompt on every single privileged operation, which can get overwhelming. These authorizations are managed by Pearcleaner and the user.\n\nWhat is a privileged operation: Whenever Pearcleaner needs to delete files from a folder (Ex. /var) the user doesn't have privileges to or undoing/restoring files back to a privileged location." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pearcleaner có thể thực hiện các thao tác yêu cầu quyền cao theo các cách sau:\n\n- Dịch vụ phụ trợ (Helper services) 👍🏻\n- Dịch vụ ủy quyền (Authorization services) 👎🏻\n\nDịch vụ phụ trợ: Pearcleaner chỉ yêu cầu bạn nhập mật khẩu một lần để kích hoạt dịch vụ phụ trợ, sau đó tất cả các thao tác tiếp theo sẽ được thực hiện mà không yêu cầu mật khẩu miễn là dịch vụ trợ giúp vẫn được bật trong Cài đặt > Mục khởi động. Việc ủy quyền này được macOS quản lý thông qua SMAppService.\n\nDịch vụ ủy quyền: Pearcleaner sẽ yêu cầu mật khẩu của người dùng cho mỗi thao tác yêu cầu quyền cao, điều này có thể trở nên phiền phức. Các ủy quyền này được Pearcleaner và người dùng cùng quản lý.\n\nThao tác yêu cầu thẩm quyền là gì?: Mỗi khi Pearcleaner cần xóa tệp khỏi thư mục mà người dùng không có quyền truy cập (ví dụ: /var) hoặc khôi phục/xóa tệp tại các vị trí yêu cầu thẩm quyền."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9165,6 +10143,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Підтримка Pearcleaner CLI"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hỗ trợ sử dụng Pearcleaner bằng dòng lệnh"
           }
         },
         "zh-Hans" : {
@@ -9233,6 +10217,12 @@
             "value" : "Видалити через Pearcleaner"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gỡ cài đặt Pearcleaner"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9273,6 +10263,12 @@
             "value" : "Виконуйте привілейовані операції без запитів на введення пароля"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thực hiện các thao tác cần thẩm quyền mà không cần yêu cầu mật khẩu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9289,6 +10285,12 @@
     },
     "Permission required. Enable in System Settings > Login Items." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần quyền truy cập. Hãy bật trong Cài đặt Hệ thống > Mục Đăng nhập."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9342,6 +10344,12 @@
             "value" : "Статус Дозволів"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông tin cấp quyền"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9380,6 +10388,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тестування Дозволів"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiểm tra quyền truy cập"
           }
         },
         "zh-Hans" : {
@@ -9439,6 +10453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Дозволи"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quyền truy cập"
           }
         },
         "zh-Hans" : {
@@ -9506,6 +10526,12 @@
             "value" : "Закріпіть спливаюче вікно зверху"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghim cửa sổ nổi lên trên cùng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9544,6 +10570,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Будь ласка, встановіть допоміжний сервіс"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vui lòng cài đặt dịch vụ phụ trợ"
           }
         },
         "zh-Hans" : {
@@ -9603,6 +10635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Файл Plist"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tệp Plist"
           }
         },
         "zh-Hans" : {
@@ -9667,6 +10705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Черга:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hàng đợi:"
           }
         },
         "zh-Hans" : {
@@ -9734,6 +10778,12 @@
             "value" : "Закрити"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoát"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9797,6 +10847,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Закрити Pearcleaner"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoát Pearcleaner"
           }
         },
         "zh-Hans" : {
@@ -9864,6 +10920,12 @@
             "value" : "Справжній"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích thước thực (Real size)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9927,6 +10989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Справжній розмір показує, скільки реально виділено місця на диску для файлу.\n\nЛогічний тип показує двійковий розмір. Файлова система може стискати і дедуплікувати сектори на диску, тому реальний розмір іноді може бути меншим (або більшим) за логічний.\n\nРозмір Finder подібний до того, якби ви клацнули правою кнопкою миші > Отримати інформацію про файл у Finder, де буде показано як логічний, так і реальний розмір разом."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiểu kích thước thực (Real size) sẽ hiển thị dung lượng thực tế mà tệp chiếm dụng trên ổ đĩa.\n\nKiểu kích thước logic (Logical type) hiển thị kích thước nhị phân của tệp. Hệ thống tệp có thể nén và loại bỏ trùng lặp các vùng lưu trữ trên ổ đĩa, vì vậy kích thước thực đôi khi có thể nhỏ hơn (hoặc lớn hơn) kích thước logic.\n\nKích thước Finder tương tự như khi bạn nhấp chuột phải vào tệp > chọn “Lấy thông tin” (Get Info) trong Finder, nơi sẽ hiển thị cả kích thước logic và kích thước thực của tệp."
           }
         },
         "zh-Hans" : {
@@ -9994,6 +11062,12 @@
             "value" : "Оновити"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Làm mới"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10057,6 +11131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оновити Програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Làm  mới ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -10124,6 +11204,12 @@
             "value" : "Оновити Програми (⌘+R)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Làm  mới ứng dụng (⌘+R)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10189,6 +11275,12 @@
             "value" : "Освіжити оновлювач"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Làm mới trình cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10211,6 +11303,12 @@
     },
     "Registered but requires enabling in System Settings > Login Items." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã đăng ký nhưng cần bật trong Cài đặt hệ thống > Mục đăng nhập."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10261,6 +11359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Примітки до релізу"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ghi chút phát hành"
           }
         },
         "zh-Hans" : {
@@ -10328,6 +11432,12 @@
             "value" : "Релізи"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Các bản cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10393,6 +11503,12 @@
             "value" : "Залишки файлів і папок з попередніх програм"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Các tệp và thư mục còn lại từ các ứng dụng trước đó"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10431,6 +11547,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Видалити всі файли/папки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loại bỏ tất cả các tệp/thư mục"
           }
         },
         "zh-Hans" : {
@@ -10492,6 +11614,12 @@
             "value" : "Пересканувати"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quét lại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10530,6 +11658,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скинути"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt lại"
           }
         },
         "zh-Hans" : {
@@ -10589,6 +11723,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скинути всі налаштування на стандартні"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đặt lại tất cả cài đặt về mặc định"
           }
         },
         "zh-Hans" : {
@@ -10656,6 +11796,12 @@
             "value" : "Скинути Налаштування"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thiết lập lại cài đặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10719,6 +11865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скинути Розмір"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thiết lập lại kích thước"
           }
         },
         "zh-Hans" : {
@@ -10786,6 +11938,12 @@
             "value" : "Перезапуск"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khởi động lại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10849,6 +12007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перезапустити %@ щоб зміни вступили в дію"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sau khi cấp quyền cần khởi động lại %@ để có hiệu lực"
           }
         },
         "zh-Hans" : {
@@ -10916,6 +12080,12 @@
             "value" : "Зворотній пошук успішно завершено"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã hoàn tất tìm kiếm ngược"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10979,6 +12149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Правий клік для скидання розміру"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhấn chuột phải để thiết lập lại kích thước"
           }
         },
         "zh-Hans" : {
@@ -11046,6 +12222,12 @@
             "value" : "Зберегти"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11086,6 +12268,12 @@
             "value" : "Збережено: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã lưu %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11118,6 +12306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Збережено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu trữ kích thước"
           }
         },
         "zh-Hans" : {
@@ -11172,6 +12366,12 @@
             "value" : "Смуга прокрутки прихована у списках"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ẩn thanh cuộn trong danh sách ứng dụng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11222,6 +12422,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Смуга прокрутки у списках налаштована відповідно до уподобань операційної системи"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiện thanh cuộn trong danh sách ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -11281,6 +12487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Шукайте програми в цих папках"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tìm ứng dụng trong các thư mục này"
           }
         },
         "zh-Hans" : {
@@ -11347,6 +12559,12 @@
             "value" : "Пошук у файловій системі"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang tìm kiếm trong hệ thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11387,6 +12605,12 @@
             "value" : "Вибрати все"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn tất cả"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11419,6 +12643,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вибрати всі універсальні програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn tất cả ứng dụng universal"
           }
         },
         "zh-Hans" : {
@@ -11471,6 +12701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вибрати оточення для перегляду шляхів."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn một môi trường để xem các đường dẫn."
           }
         },
         "zh-Hans" : {
@@ -11538,6 +12774,12 @@
             "value" : "Сторожовий Монітор"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trình giám sát Sentinel"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11603,6 +12845,12 @@
             "value" : "Сторожовий Монітор не знайшов інших файлів для видалення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trình giám sát Sentinel không tìm thấy tệp nào khác để xóa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11625,6 +12873,12 @@
     },
     "Service hasn’t been registered. You may register it now." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dịch vụ chưa được đăng ký. Bạn có thể đăng ký ngay bây giờ."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11635,6 +12889,12 @@
     },
     "Service is already enabled." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dịch vụ đã được bật."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11645,6 +12905,12 @@
     },
     "Service is already registered and enabled." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dịch vụ đã được đăng ký và bật."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11655,6 +12921,12 @@
     },
     "Service is not installed." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dịch vụ chưa được cài đặt."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11665,6 +12937,12 @@
     },
     "Service registered but requires user approval in Settings > Login Items > %@.app." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dịch vụ đã được đăng ký nhưng cần sự phê duyệt của người dùng trong Cài đặt > Mục Đăng nhập > %@.app."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11716,6 +12994,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Налаштування"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt"
           }
         },
         "zh-Hans" : {
@@ -11783,6 +13067,12 @@
             "value" : "Знову показати значок оголошень"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị lại biểu tượng thông báo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11848,6 +13138,12 @@
             "value" : "Показувати список програм під час запуску"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiển thị danh sách ứng dụng khi khởi động"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11910,6 +13206,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Показати Деталі"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem chi tiết"
           }
         },
         "zh-Hans" : {
@@ -11977,6 +13279,12 @@
             "value" : "Показувати останні 3 релізи"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang hiển thị 3 phiên bản mới nhất"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12015,6 +13323,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оскільки компанія Apple відмовилася від використання служби авторизації як менш безпечного методу автентифікації, її буде вилучено з Pearcleaner, а допоміжна служба залишиться єдиним варіантом у майбутньому. Я рекомендую увімкнути привілейовану допоміжну службу якомога швидше."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vì dịch vụ ủy quyền đã bị Apple ngừng hỗ trợ do là phương thức xác thực kém an toàn, nó sẽ dần bị loại bỏ khỏi Pearcleaner và dịch vụ phụ trợ sẽ là lựa chọn duy nhất trong tương lai. Tôi khuyến nghị bạn nên bật dịch vụ phụ trợ càng sớm càng tốt."
           }
         },
         "zh-Hans" : {
@@ -12074,6 +13388,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Розмір"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dung lượng"
           }
         },
         "zh-Hans" : {
@@ -12141,6 +13461,12 @@
             "value" : "Сортувати список програм за алфавітом, назвою або розміром"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sắp xếp danh sách ứng dụng theo thứ tự chữ cái (a-z) hoặc theo kích thước"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12204,6 +13530,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Відсортовано за Назвою"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã sắp xếp theo tên"
           }
         },
         "zh-Hans" : {
@@ -12271,6 +13603,12 @@
             "value" : "Відсортовано за Розміром"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã sắp xếp theo kích thước"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12292,6 +13630,7 @@
       }
     },
     "Sorting Options" : {
+      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -12333,6 +13672,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Параметри Сортування"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tủy chọn sắp xếp"
           }
         },
         "zh-Hans" : {
@@ -12400,6 +13745,12 @@
             "value" : "Сортування: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sắp xếp theo %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12465,6 +13816,12 @@
             "value" : "Спонсор"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ủng hộ nhà phát triển"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12505,6 +13862,12 @@
             "value" : "Почати lipo"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khởi động Lipo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12537,6 +13900,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Суворий пошук за назвою програми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tìm kiếm tên ứng dụng nghiêm ngặt"
           }
         },
         "zh-Hans" : {
@@ -12596,6 +13965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Подати запит на виправлення помилки або новий функціонал"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phản hồi lỗi xảy ra khi sử dụng ứng dụng hoặc yêu cầu thêm tính năng mới"
           }
         },
         "zh-Hans" : {
@@ -12663,6 +14038,12 @@
             "value" : "Повідомити про проблему"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gửi báo cáo lỗi mới"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12726,6 +14107,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Підтримка"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hỗ trợ"
           }
         },
         "zh-Hans" : {
@@ -12793,6 +14180,12 @@
             "value" : "система"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "hệ thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12857,6 +14250,12 @@
             "value" : "Система"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hệ thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12895,6 +14294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Термінал"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminal"
           }
         },
         "zh-Hans" : {
@@ -12954,6 +14359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Режим Теми"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chủ đề"
           }
         },
         "zh-Hans" : {
@@ -13021,6 +14432,12 @@
             "value" : "Файл/папку буде додано до списку винятків. Відредагуйте список винятків на вкладці Налаштування > вкладка Папки"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thao tác này sẽ thêm tệp/thư mục vào danh sách loại trừ. Bạn có thể chỉnh sửa danh sách loại trừ trong Cài đặt > Thẻ Thư mục."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13059,6 +14476,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ця програма інстальована через Homebrew"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng này được cài đặt thông qua Homebrew"
           }
         },
         "zh-Hans" : {
@@ -13118,6 +14541,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ця програма знаходиться в %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng này nằm tại %@"
           }
         },
         "zh-Hans" : {
@@ -13185,6 +14614,12 @@
             "value" : "Це веб програма"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đây là một ứng dụng web"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13248,6 +14683,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Це обернути iOS програма"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đây là ứng dụng iOS được đóng gói để chạy trên máy Mac"
           }
         },
         "zh-Hans" : {
@@ -13315,6 +14756,12 @@
             "value" : "Цей параметр впливає на роботу Pearcleaner незалежно від того, у якому режимі ви працюєте: у режимі Смуги Меню або звичайному режимі. Якщо ви вимкнули Смугу Меню на панелі меню, вам також слід вимкнути цей параметр, щоб Pearcleaner не запускався під час входу до системи."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt này sẽ ảnh hưởng đến Pearcleaner dù đang sử dụng chế độ thanh menu hay chế độ thông thường. Nếu tắt biểu tượng trên thanh menu, bạn có thể muốn tắt cài đặt này để Pearcleaner không tự động khởi động khi đăng nhập."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13353,6 +14800,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Це виключить обрані елементи з майбутніх сканувань. Список Вийнятків можна відредагувати у Налаштування - вкладка Папки"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều này sẽ loại trừ các mục đã chọn khỏi các lần quét trong tương lai. Danh sách loại trừ có thể được chỉnh sửa từ Cài đặt > Tab Thư mục."
           }
         },
         "zh-Hans" : {
@@ -13412,6 +14865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Перемикання між режимами призведе до скидання розмірів/положення віконних рамок за замовчуванням"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuyển đổi giữa các chế độ sẽ đặt lại khung cửa sổ về kích thước và vị trí mặc định"
           }
         },
         "zh-Hans" : {
@@ -13479,6 +14938,12 @@
             "value" : "Інструменти"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Công cụ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13517,6 +14982,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Загальний розмір бінарного файлу для всіх програм"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng kích thước nhị phân của tất cả các ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -13571,6 +15042,12 @@
             "value" : "Загальна кількість доступних шляхів до середовища"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng số đường dẫn môi trường có sẵn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13609,6 +15086,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Загальний обсяг доступного звільнення для всіх програм"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng mức tiết kiệm có thể có giữa tất cả các ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -13667,6 +15150,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Загальний розмір файлів:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tổng dung lượng"
           }
         },
         "zh-Hans" : {
@@ -13734,6 +15223,12 @@
             "value" : "Прозорий матеріал"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chế độ trong suốt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13772,6 +15267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введіть ключове слово для виключення, натисніть Enter ↵, щоб зберегти"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhập từ khóa để loại trừ, nhấn Enter ↵ để lưu"
           }
         },
         "zh-Hans" : {
@@ -13830,6 +15331,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Введіть для пошуку"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tìm kiếm ứng dụng"
           }
         },
         "zh-Hans" : {
@@ -13897,6 +15404,12 @@
             "value" : "Скасувати видалення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoàn tác việc xóa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13960,6 +15473,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Видалити"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gỡ cài đặt"
           }
         },
         "zh-Hans" : {
@@ -14027,6 +15546,12 @@
             "value" : "Сповіщення про підтвердження видалення"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xác nhận gỡ cài đặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14092,6 +15617,12 @@
             "value" : "Видалити Pearcleaner"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gỡ cài đặt Pearcleaner"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14150,6 +15681,12 @@
             "value" : "універсальний"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "universal"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "needs_review",
@@ -14166,6 +15703,12 @@
     },
     "Unknown service status (%lld)." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trạng thái dịch vụ không xác định (%lld)."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14192,6 +15735,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Від'єднати файл"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy liên kết tệp"
           }
         },
         "zh-Hans" : {
@@ -14226,6 +15775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скасувати Реєстрацію Сервіса"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hủy đăng ký dịch vụ"
           }
         },
         "zh-Hans" : {
@@ -14284,6 +15839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оновити"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cập nhật"
           }
         },
         "zh-Hans" : {
@@ -14351,6 +15912,12 @@
             "value" : "Оновлення Доступне"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bản cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14416,6 +15983,12 @@
             "value" : "Оновлення Доступне 🥳"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Có bản cập nhật 🥳"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14473,6 +16046,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оновлення виконано"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã hoàn tất cập nhật"
           }
         },
         "zh-Hans" : {
@@ -14539,6 +16118,12 @@
             "value" : "Частота Оновлень"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tần suất cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14598,6 +16183,12 @@
             "value" : "Оновлення в процесі"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đang cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14655,6 +16246,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Автоматичні оновлення вимкнено"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã thiết lập không bao giờ kiểm tra cập nhật"
           }
         },
         "zh-Hans" : {
@@ -14722,6 +16319,12 @@
             "value" : "Оновлення вимкнені"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã tắt cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14784,6 +16387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "користувач"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "người dùng"
           }
         },
         "zh-Hans" : {
@@ -14850,6 +16459,12 @@
             "value" : "Користувач"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người dùng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14872,6 +16487,12 @@
     },
     "User denied permission. Enable in System Settings > Login Items." : {
       "localizations" : {
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người dùng đã từ chối cấp quyền. Vui lòng bật trong Cài đặt hệ thống > Mục đăng nhập."
+          }
+        },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
@@ -14922,6 +16543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Версія %@"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Phiên bản %@"
           }
         },
         "zh-Hans" : {
@@ -14988,6 +16615,12 @@
             "value" : "Перегляд"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15026,6 +16659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Переглянути вікно налагодження"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem cửa sổ gỡ lỗi"
           }
         },
         "zh-Hans" : {
@@ -15085,6 +16724,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Переглянути у Finder"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem trong Finder"
           }
         },
         "zh-Hans" : {
@@ -15152,6 +16797,12 @@
             "value" : "Переглянути Проблеми"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem các bấn đề"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15215,6 +16866,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Переглянути вклад у проектування"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem những người đóng góp cho dự án"
           }
         },
         "zh-Hans" : {
@@ -15282,6 +16939,12 @@
             "value" : "Переглянути Релізи"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem các bản cập nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15344,6 +17007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Переглянути релізи на GitHub"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem các bản cập nhật trên Github"
           }
         },
         "zh-Hans" : {
@@ -15411,6 +17080,12 @@
             "value" : "Переглянути репозиторій"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Truy cập kho lưu trữ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15474,6 +17149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Попередження"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảnh báo"
           }
         },
         "zh-Hans" : {
@@ -15541,6 +17222,12 @@
             "value" : "Попередження!"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảnh báo!"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15604,6 +17291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "веб"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "web"
           }
         },
         "zh-Hans" : {
@@ -15671,6 +17364,12 @@
             "value" : "Веб програма"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ứng dụng web"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15734,6 +17433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Щотижня"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hàng tuần"
           }
         },
         "zh-Hans" : {
@@ -15801,6 +17506,12 @@
             "value" : "Коли програми буде переміщено до Смітника, Pearcleaner запуститься і знайде відповідні файли та папки для видалення."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi ứng dụng được đưa vào Thùng rác, Pearcleaner sẽ tự động khởi động và dò tìm các tệp, thư mục liên quan để xóa bỏ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15866,6 +17577,12 @@
             "value" : "Видаляючи файли за допомогою кнопки Смітник, ви можете запобігти випадковому видаленню, показавши попередження перед тим, як продовжити дію."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi xóa tệp bằng nút có biểu tượng Thùng rác, bạn có thể tránh xóa nhầm bằng cách hiển thị một thông báo xác nhận trước khi thực hiện hành động đó."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -15904,6 +17621,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Якщо очищення Homebrew увімкнено, Pearcleaner перевірить, чи програма, яку ви видаляєте, була встановлена через Homebrew, і запустить вбудований термінал для виконання команди видалення і очищення, щоб повідомити Homebrew про те, що програму видалено. Таким чином ваш список Homebrew буде правильно синхронізовано, а кешування буде видалено.\n\nПРИМІТКА: Якщо ви скасуєте видалення файлів за допомогою CMD+Z, файли буде відновлено, але Homebrew не знатиме про це. Щоб відновити синхронізацію списку Homebrew, вам потрібно виконати\n\n> brew install APPNAME --force"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi bật tính năng \"Homebrew cleanup\", Pearcleaner sẽ kiểm tra xem ứng dụng đang gỡ cài đặt có được cài thông qua Homebrew hay không, và sẽ tự động mở một Terminal tích hợp để chạy lệnh brew uninstall và cleanup, giúp Homebrew biết rằng ứng dụng đã bị gỡ.\nCách này giúp danh sách ứng dụng trong Homebrew được đồng bộ chính xác và xóa các tệp bộ nhớ đệm liên quan.\n\nLưu ý: Nếu bạn hoàn tác việc xóa tệp bằng phím tắt CMD+Z, các tệp sẽ được khôi phục, nhưng Homebrew sẽ không biết điều đó.\nĐể đồng bộ lại danh sách Homebrew, bạn cần chạy lệnh:\n\n> brew install APPNAME --force"
           }
         },
         "zh-Hans" : {
@@ -15963,6 +17686,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Якщо очищення Homebrew увімкнено, Pearcleaner перевірить, чи програму, яку ви видаляєте, було встановлено через Homebrew, і запустить програму Terminal.app для виконання команди видалення і очищення, щоб повідомити Homebrew, що програму видалено. Таким чином ваш список Homebrew буде правильно синхронізовано, а кешування буде видалено. Terminal.app є необхідним, оскільки деякі програми потребують дозволів sudo для видалення служб і файлів, розміщених у системних теках. Оскільки інші термінальні програми не підтримують AppleScript та/або команду «do script», я вирішив використати для цього стандартну програму macOS Terminal.\n\nПРИМІТКА: Якщо ви скасуєте видалення файлів за допомогою CMD+Z, файли буде відновлено, але Homebrew не знатиме про це. Щоб відновити синхронізацію списку Homebrew, вам потрібно виконати\n\n> brew install APPNAME --force"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi bật tính năng dọn \"Homebrew cleanup\", Pearcleaner sẽ kiểm tra xem ứng dụng đang gỡ có được cài đặt thông qua Homebrew hay không và sẽ mở ứng dụng Terminal.app để chạy lệnh brew uninstall và cleanup, nhằm thông báo cho Homebrew biết rằng ứng dụng đã bị gỡ.\nCách này giúp danh sách ứng dụng trong Homebrew được đồng bộ chính xác và loại bỏ các tệp bộ nhớ đệm.\nỨng dụng Terminal.app mặc định của macOS là bắt buộc vì một số ứng dụng cần quyền sudo để gỡ bỏ dịch vụ và các tệp nằm trong thư mục hệ thống. Do các ứng dụng terminal khác không hỗ trợ AppleScript và/hoặc lệnh 'do script', do đó Pearcleaner đã chọn sử dụng ứng dụng Terminal.app mặc định của macOS cho thao tác này.\n\nLưu ý: Nếu bạn hoàn tác việc xóa tệp bằng phím tắt CMD+Z, các tệp sẽ được khôi phục, nhưng Homebrew sẽ không biết điều đó.\nĐể đồng bộ lại danh sách Homebrew, bạn cần chạy lệnh:\n\n> brew install APPNAME --force"
           }
         },
         "zh-Hans" : {
@@ -16030,6 +17759,12 @@
             "value" : "Коли увімкнено режим на Смузі Меню, головне вікно програми та піктограму док-станції буде вимкнено, оскільки програму буде переведено в режим доповнення."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi biểu tượng trên thanh menu được bật, cửa sổ chính của ứng dụng và biểu tượng trên Dock sẽ bị vô hiệu hóa vì ứng dụng sẽ chuyển sang chế độ phụ trợ\n"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16068,6 +17803,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Під час пошуку пов'язаних файлів програми строго перевірятиметься, чи ім'я програми точно збігається з назвою знайденого файлу. Якщо вимкнено, буде перевірено, чи міститься назва програми у назві знайденого файлу. Це може бути корисно під час пошуку кількох версій однієї програми або під час пошуку файлів, назви яких не збігаються з назвою програми. У разі використання цього параметра буде знайдено більше файлів, але деякі з них можуть бути не пов'язані з програмою, тому переконайтеся, що ви встановили/зняли прапорець з потрібних файлів."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi tìm kiếm các tệp liên quan đến ứng dụng, nếu bật chế độ nghiêm ngặt (strict), hệ thống sẽ chỉ tìm các tệp có tên khớp chính xác với tên ứng dụng. Nếu tắt chế độ nghiêm ngặt, hệ thống sẽ tìm cả những tệp có chứa tên ứng dụng trong tên tệp. Cách này hữu ích khi bạn cần tìm nhiều phiên bản khác nhau của cùng một ứng dụng, hoặc tìm các tệp không đặt tên đúng theo tên ứng dụng. Khi tắt chế độ nghiêm ngặt, bạn sẽ tìm được nhiều tệp hơn, nhưng cũng dễ gặp phải một số tệp không liên quan, nên nhớ kiểm tra và chọn lọc kỹ các tệp cần thiết."
           }
         },
         "zh-Hans" : {
@@ -16127,6 +17868,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Якщо цей режим увімкнено, натискання кнопки Видалити для видалення програми також призведе до закриття Pearcleaner одразу після цього.\nЦе впливає на Pearcleaner лише тоді, коли його відкрито за допомогою зовнішніх засобів, таких як Sentinel Trash Monitor, розширення Finder або Deep Link.\nЦе дозволяє одноразове використання програми для швидкого видалення. Якщо Pearcleaner відкрито у звичайному режимі, цей параметр ігнорується і програма працюватиме у звичайному режимі."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khi bật chế độ này, việc nhấn nút Gỡ cài đặt để xóa một ứng dụng cũng sẽ tự động đóng Pearcleaner ngay sau đó.\n\nChế độ này chỉ ảnh hưởng đến Pearcleaner khi ứng dụng được mở thông qua các phương thức bên ngoài, như Sentinel Trash Monitor, tiện ích mở rộng Finder hoặc một liên kết sâu (Deep Link).\n\nTính năng này cho phép sử dụng nhanh Pearcleaner chỉ một lần để gỡ ứng dụng. Khi mở Pearcleaner theo cách thông thường, cài đặt này sẽ bị bỏ qua và ứng dụng sẽ hoạt động như bình thường."
           }
         },
         "zh-Hans" : {
